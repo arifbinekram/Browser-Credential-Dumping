@@ -1,3 +1,4 @@
+:
 
 ```markdown
 # Browser Credential Dumping
@@ -47,6 +48,14 @@ To run the script and dump credentials, use the following command:
 ```bash
 python dump_creds.py
 ```
+
+## Contributing
+
+Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
