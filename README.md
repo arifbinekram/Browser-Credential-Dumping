@@ -1,6 +1,5 @@
 :
 
-```markdown
 # Browser Credential Dumping
 
 This project provides a tool designed to demonstrate how browser credentials can be extracted maliciously. It's a powerful example for educational purposes, designed to help cybersecurity enthusiasts and professionals understand the vulnerabilities and defense mechanisms associated with web browser credential storage.
